@@ -1,3 +1,4 @@
-* [Flask ±Ğµ{¡A²Ä¤@³¡¤À¡GHello¡AWorld¡I](http://www.oschina.net/translate/the-flask-mega-tutorial-part-i-hello-world)
+* [Flask æ•™ç¨‹ï¼Œç¬¬ä¸€éƒ¨åˆ†ï¼šHelloï¼ŒWorldï¼](http://www.oschina.net/translate/the-flask-mega-tutorial-part-i-hello-world)
 
-* [©x¤è¤Jªù](http://dormousehole.readthedocs.org/en/latest/quickstart.html#id2)
+* [å®˜æ–¹å…¥é–€](http://dormousehole.readthedocs.org/en/latest/quickstart.html#id2)
+* http://pycoder.net/bospy/presentation.html#cuc-3
